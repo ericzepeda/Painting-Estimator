@@ -2,7 +2,7 @@
 This tool is intended for residential painters that want to include accurate and free estimates of a project to a potential customer without physically going to a house. 
 Persona: Busy single-person painter, Bob, that has an LLC and would like to provide an online tool to prospective clients for them to get an accurate estiamte the same day. 
   Bob saves time and energy by not going physically going to a house until a statement of work is signed.
-  The customer benefits by getting a transperant same-day estimate.
+  The customer benefits by getting a transparent same-day estimate.
 
 
 # Feature 1: Image Upload
